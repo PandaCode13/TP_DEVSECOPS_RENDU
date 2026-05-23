@@ -244,6 +244,14 @@ To address all issues (including breaking changes), run:
   npm audit fix --force
 
 
-Je sais que ça fait beaucoup de lignes mais je pouvais prendre en capture un petit truc. 
+Je sais que ça fait beaucoup de lignes mais je ne pouvais pas prendre tout en capture d'écran car ça allait minuscule. 
 
-Je me suis arreté à ça car le reste j'arrivais pas à faire. 
+Etape 5 
+
+![alt text](image-2.png)
+
+Voici le résultat obtenu lorsque on clique sur github Actions 
+
+Etape 6 
+
+Je n'ai pas réussi à setup et configurer malgré les consignes et j'essayais de tout sans IA. SI tu remarques que j'ai fait avec IA, je suis d'accord pour les points perdus. 
